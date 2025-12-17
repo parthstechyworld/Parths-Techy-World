@@ -212,7 +212,7 @@ footer {
   margin-top: 20px;
   background-color: #81c2ee;
   /* list-style-type: square; */
-  width: 75%;
+  width: auto;
 }
 
 .services-content {  
@@ -249,7 +249,7 @@ h2 {
   padding: 50px;
   border: #000000 2px solid;
   margin-top: 20px;
-  width: 75%;
+  width: auto;
   
 }
 .commitment {
@@ -258,7 +258,7 @@ h2 {
   padding: 50px;
   border: #000000 2px solid;
   margin-top: 20px;
-  width: 75%;
+  width: auto;
   color: #ff914d;
   box-shadow: #FF914D 8px 8px 25px;
 }
@@ -275,4 +275,5 @@ ul li::marker {
 }
 ul li {
   margin-bottom: 10px; /* Adds space between list items */
+
 }
